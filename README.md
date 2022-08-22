@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15&height=200&text=Ingwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Ingwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
 <!--
 **ingwon97/ingwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
