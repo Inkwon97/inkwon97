@@ -1,4 +1,4 @@
-
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15&height=200&text=Ingwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
 <!--
 **ingwon97/ingwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="left">Hi 👋, I'm ingwon</h1>
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&customColorList=15&height=200&text=Ingwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
 <h3 align="left">A passionate backend developer from Korea</h3>
 
 <!-- <h3 align="left">Connect with me:</h3> -->
