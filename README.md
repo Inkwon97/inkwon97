@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingwon97&theme=codeSTACKr)](https://github.com/ingwon97/github-readme-stats)-->
 
 
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=ingwon97&theme=codeSTACKr">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=ingwon97&theme=codeSTACKr" width="500">
 <img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdrnjs180">
