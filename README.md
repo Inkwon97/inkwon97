@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Ingwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&text=Inkwon&nbsp;Hwang&fontAlign=70&fontAlignY=40&animation=twinkling)
 <!--
 **ingwon97/ingwon97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,5 +24,5 @@ Here are some ideas to get you started:
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ingwon97&theme=codeSTACKr)](https://github.com/ingwon97/github-readme-stats)-->
 
 
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=ingwon97&theme=codeSTACKr" width="450">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=inkwon97&theme=codeSTACKr" width="450">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=ghkdrnjs180">
